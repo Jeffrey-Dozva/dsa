@@ -46,14 +46,10 @@ class Stack {
     }
 
     // returns the size of stack
-    size = () => {
-        return this.count
-    }
+    size = () => this.count
 
     //   return the value at the end of the stack
-    peek = () => {
-        return this.storage[this.count - 1]
-    }
+    peek = () => this.storage[this.count - 1]
 
 }
 
