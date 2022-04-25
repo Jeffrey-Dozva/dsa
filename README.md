@@ -1,2 +1,4 @@
 # dsa
 Data structures and algorithms ES6
+
+[Learning article](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmNnLTltVTg1LUxxSlRuVVR6ZlpqcEg5MzRoUXxBQ3Jtc0tuRUFWY3ZRcGVLelMyMFdnT05HRDNJTVBBVk9URTN1QWhIQ0h0b2JPekZJVTRfbkN5eGY2SUx3VF9oUXlfMWhFdlNfZ29CLUdyMDZSdXpEX0MwWlNtazFUVFN6bWktZVZwU3hKMzA0N0JRbHBVckh0cw&q=https%3A%2F%2Fmedium.freecodecamp.org%2F10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b&v=t2CEgPsws3U"")
